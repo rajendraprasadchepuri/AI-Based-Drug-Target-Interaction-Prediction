@@ -1,0 +1,16 @@
+name: graphdti
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - rdkit
+  - pytorch
+  - pyg
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - tqdm
+  - jupyter
