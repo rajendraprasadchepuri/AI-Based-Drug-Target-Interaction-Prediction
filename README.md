@@ -1,8 +1,6 @@
-# AI-Based-Drug-Target-Interaction-Prediction
-This project predicts interactions between small molecules (drugs) and protein targets using deep learning models like Graph Neural Networks (GNNs) and XGBoost.  
+# GraphDTI: Graph Neural Networks for Drug-Target Interaction Prediction  
 
-🔹 Key Features:
-✅ Uses molecular fingerprints (SMILES) and protein sequences for prediction
-✅ Implements GNN for molecule representation
-✅ Includes bioactivity dataset preprocessing
-✅ XGBoost for baseline models, Deep Learning for high accuracy
+## 🔬 Overview  
+GraphDTI is a machine learning pipeline for predicting Drug-Target Interactions (DTI) using Graph Neural Networks (GNNs). It compares GNNs with traditional models like XGBoost and provides a reproducible framework for computational drug discovery.
+
+## 📂 Repository Structure  
